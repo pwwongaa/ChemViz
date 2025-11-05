@@ -1,5 +1,5 @@
 # ChemViz
-Initial stage of Cheminformatics project - Chemical structure searcher and visualiser
+Initial stage of Cheminformatics project - Chemical structure searcher and visualiser. Powered by Lovable AI. Practice use.
 
 ✨ Features
 Search: by name or SMILES; find closest results
